@@ -36,7 +36,7 @@
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Web" />
     <PackageReference Include="Microsoft.Owin">
-      <Version>4.1.0</Version>
+      <Version>4.2.2</Version>
     </PackageReference>
     <PackageReference Include="Microsoft.Owin.Diagnostics">
       <Version>4.1.0</Version>
